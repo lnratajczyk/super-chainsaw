@@ -47,7 +47,8 @@ Describe at a high level a program that could solve that problem.
 
 
 4. User Interface: Describe a user interface for your program.  Use text menus or a simple graphic user interface.
-
+ * The user interface will be text based menus within the console.
+ * Example: One game will be trivia. It will print a question to the console, then the user can type a response. After they submit it, the question, answer, correct answer, and current score will be printed back.
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.

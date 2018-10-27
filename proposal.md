@@ -39,8 +39,8 @@ Describe at a high level a program that could solve that problem.
 
 
 2. Output: Describe the output your program will produce.  Include and example format of the output produced.
-The program will output the games as they're being played and can also output the scores. 
-Example - "Score for trivia: 5/10"
+ * The program will output the games as they're being played and can also output the scores. 
+   * Example - "Score for trivia: 5/10"
 
 3. Input: Describe the data that is needed to solve your problem. Include an example format of the input data.
 
@@ -51,7 +51,7 @@ Example - "Score for trivia: 5/10"
 
 
 5. Types List: Break your solution idea down into units that you think can be implemented with a single class.
-
+ * Each game will be its own unit/class.
 
 
 Name each interface or class and briefly describe its function or purpose.
